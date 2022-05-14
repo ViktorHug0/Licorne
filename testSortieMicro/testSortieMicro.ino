@@ -1,9 +1,5 @@
-#define ANALOGARDUINOPIN A0
-#define LED_PIN 2
-#define NUM_LEDS 230
+#define ANALOGARDUINOPIN 34
 
-
-word ValA0=0;
 float ValA0_f=0.0;
 
 void setup() {
